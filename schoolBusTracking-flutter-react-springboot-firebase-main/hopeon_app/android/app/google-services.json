@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "712407355856",
+    "firebase_url": "https://hopeon-2b8ef-default-rtdb.firebaseio.com",
+    "project_id": "hopeon-2b8ef",
+    "storage_bucket": "hopeon-2b8ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712407355856:android:bdae8547e7cde8744469d5",
+        "android_client_info": {
+          "package_name": "com.example.hopeon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkP1-rgSoxZRpuhG-nPovvzx8m5_ft24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
